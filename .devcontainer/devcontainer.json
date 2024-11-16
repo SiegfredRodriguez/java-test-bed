@@ -1,0 +1,12 @@
+{
+    "name": "Spring Test Bed",
+    "image": "openjdk:21-bullseye",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Oracle.oracle-java",
+                "vmware.vscode-boot-dev-pack"
+            ]
+        }
+    }
+}
