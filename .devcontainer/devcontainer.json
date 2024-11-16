@@ -1,5 +1,5 @@
 {
-    "name": "Spring Test Bed",
+    "name": "Java Test Bed",
     "image": "openjdk:21-bullseye",
     "customizations": {
         "vscode": {
